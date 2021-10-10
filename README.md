@@ -3,7 +3,7 @@
 #### ***Project created during CodeWeek EU Hackathlon.***
 
 #### **Website:** https://strassium.com
-**Android app included**
+#### **Beta mobile app for preview** https://drive.google.com/file/d/1A5FSYx3XNAZe2KPYj7FMFffpgzkY6TQl/view?usp=drivesdk
 
 
 ###### React native: Android app + Web app
