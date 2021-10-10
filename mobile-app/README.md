@@ -1,15 +1,24 @@
 # CodeWeek-Strassium
 
-Project created during CodeWeek EU Hackathlon.
+#### ***Project created during CodeWeek EU Hackathlon.***
 
-React native app
+#### **Website:** https://strassium.com
+**Android app included**
 
-also needs .expo, .expo-shared, .vscode and most importantly node_modules
+
+###### React native: Android app + Web app
 
 
-COMMANDS:
-expo install expo-app-loading
-expo install expo-font @expo-google-fonts/roboto
-expo install react-native-easing-gradient
-expo install expo-linear-gradient
-expo install react-native-swipeable
+
+## + Modules to be implemented:
+* Smart fridge connection
+* Shopping list to food chain online store connection(spar)
+* Meal Planning
+* Narrator(for people impered vision)
+* Storage code sharing QR-code implementation 
+* My food posts section for providers
+
+
+
+## - Problematic Modules:
+* Google maps for web app
