@@ -1,0 +1,39 @@
+{
+  "expo": {
+
+    "name": "SmartFood",
+    "slug": "SmartFoodv3",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/pizza_lepa.png",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FDB44E"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+           "apiKey": "AIzaSyBDWHTrbBRsVrfRiIwgW9KCttMwltazN-k"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pizza_lepa.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.Strassium.SmartFoodv3"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
