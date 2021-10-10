@@ -14,7 +14,7 @@
 * Smart fridge connection
 * Shopping list to food chain online store connection(spar)
 * Meal Planning
-* Narrator(for people impered vision)
+* Narrator(for people with impered vision)
 * Storage code sharing QR-code implementation 
 * My food posts section for providers
 
